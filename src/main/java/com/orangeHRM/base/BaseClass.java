@@ -31,6 +31,8 @@ public class BaseClass {
 		
 		driver.manage().window().maximize();
 		
+		By.
+		
 		
 		
 	}
