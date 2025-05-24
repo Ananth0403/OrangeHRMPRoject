@@ -3,7 +3,7 @@ package com.orangeHRM.test;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.orangehrm.base.BaseClass;
+import com.orangeHRM.base.BaseClass;
 
 public class BaseTest extends BaseClass {
 

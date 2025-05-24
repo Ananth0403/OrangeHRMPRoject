@@ -1,4 +1,4 @@
-package com.orangehrm.base;
+package com.orangeHRM.base;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
