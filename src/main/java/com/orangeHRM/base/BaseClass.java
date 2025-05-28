@@ -20,7 +20,7 @@ public class BaseClass {
 	
 	
 	protected Properties prop;
-	protected WebDriver driver;
+	public static WebDriver driver;
 	
 	@BeforeSuite
 	public void loadConfig() throws IOException {
