@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="OrangeHRMSuite">
-	<test name="OrangeHRMTests">
-		<classes>
-			<class name="com.orangehrm.test.BaseTest"></class>
-		</classes>
-	</test>
-</suite>
